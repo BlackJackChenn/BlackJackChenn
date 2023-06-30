@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Black Jack 
+- 👀 I’m interested in web3 
+- 🌱 I’m currently learning solidity
+- 💞️ I’m looking to collaborate on Sparkle team
+- 📫 How to reach me? pls join our discord
